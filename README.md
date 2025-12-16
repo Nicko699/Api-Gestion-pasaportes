@@ -105,8 +105,8 @@ Sistema de gestión de pasaportes desarrollado con **Spring Boot** que implement
 ### 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/Nicko699/sistema-pasaportes.git
-cd sistema-pasaportes
+git clone https://github.com/Nicko699/Api-Gestion-pasaportes.git
+cd Api-Gestion-pasaportes
 ```
 
 ### 2️⃣ Configurar base de datos
